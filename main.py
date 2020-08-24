@@ -8,3 +8,7 @@ print(6, text[1::2])
 print(7, text[len(text)-1::-1])
 print(8, text[len(text)-1::-2])
 print(9, len(text))
+
+a = 10
+b = 20
+print (a+b)
