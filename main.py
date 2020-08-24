@@ -17,3 +17,5 @@ a = 10
 b = 20
 >>>>>>> goodbye
 print (a+b)
+
+print (a+b)
